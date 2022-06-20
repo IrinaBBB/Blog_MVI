@@ -1,8 +1,9 @@
-package ru.irinavb.blog_mvi
+package ru.irinavb.blog_mvi.ui.main
 
 import android.os.Bundle
 import android.view.*
 import androidx.fragment.app.Fragment
+import ru.irinavb.blog_mvi.R
 import ru.irinavb.blog_mvi.databinding.FragmentMainBinding
 
 class MainFragment : Fragment() {
